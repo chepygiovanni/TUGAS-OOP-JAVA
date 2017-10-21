@@ -8,7 +8,7 @@ public class Mahasiswa{
 }
 
 public void printNama(){
-	System.out.println("Richard");
+	System.out.println("Chepy Abdul Ghopur");
 }
 
 public int calculateUmur(){
